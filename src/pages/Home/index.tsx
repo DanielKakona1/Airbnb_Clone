@@ -1,4 +1,5 @@
 import React from 'react'
+import {Banner} from '../../components';
 import './Home.css';
 
 interface Props {
@@ -8,7 +9,10 @@ interface Props {
 const Home = (props: Props) => {
   return (
     <div className='home'>
-      <p>HOME</p>
+      <Banner/>
+      <div className="home__section">
+        
+      </div>
     </div>
   )
 }
