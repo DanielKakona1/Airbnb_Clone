@@ -16,6 +16,7 @@
     "react": "^16.13.1",
     "react-date-range": "^1.0.3",
     "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.3",
     "typescript": "~3.7.2"
   },
@@ -41,6 +42,7 @@
     ]
   },
   "devDependencies": {
-    "@types/react-date-range": "^0.95.1"
+    "@types/react-date-range": "^0.95.1",
+    "@types/react-router-dom": "^5.1.5"
   }
 }
